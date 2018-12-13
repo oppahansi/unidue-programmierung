@@ -7,6 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="LEDControl_v2_r5e" level="project" />
+    <orderEntry type="library" name="LEDControl_v2_r8" level="project" />
   </component>
 </module>
